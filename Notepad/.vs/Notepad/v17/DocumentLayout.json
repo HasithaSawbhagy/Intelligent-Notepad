@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F090406-504B-4FDF-BF7E-D6955D90751A}|Notepad\\Notepad.csproj|d:\\projects\\intelligent-notepad\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F090406-504B-4FDF-BF7E-D6955D90751A}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090406-504B-4FDF-BF7E-D6955D90751A}|Notepad\\Notepad.csproj|d:\\projects\\intelligent-notepad\\notepad\\notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F090406-504B-4FDF-BF7E-D6955D90751A}|Notepad\\Notepad.csproj|solutionrelative:notepad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,12 +38,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\Intelligent-Notepad\\Notepad\\Notepad\\Form1.cs",
+              "RelativeDocumentMoniker": "Notepad\\Form1.cs",
+              "ToolTip": "D:\\Projects\\Intelligent-Notepad\\Notepad\\Notepad\\Form1.cs*",
+              "RelativeToolTip": "Notepad\\Form1.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAD4v5kAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:45:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\Intelligent-Notepad\\Notepad\\Notepad\\Form1.cs",
               "RelativeDocumentMoniker": "Notepad\\Form1.cs",
-              "ToolTip": "D:\\Projects\\Intelligent-Notepad\\Notepad\\Notepad\\Form1.cs [Design]",
-              "RelativeToolTip": "Notepad\\Form1.cs [Design]",
+              "ToolTip": "D:\\Projects\\Intelligent-Notepad\\Notepad\\Notepad\\Form1.cs [Design]*",
+              "RelativeToolTip": "Notepad\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T15:33:02.447Z",
               "EditorCaption": " [Design]"
